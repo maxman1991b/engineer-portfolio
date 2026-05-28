@@ -1,6 +1,6 @@
 # Engineer Portfolio
 
-Statische Portfolio-Webseite für Entwickler und Ingenieure.
+Statische Portfolio-Webseite für Entwickler.
 
 ## Start
 
